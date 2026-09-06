@@ -1,6 +1,6 @@
-# goit-js-hw-09
+# goit-js-hw-10
 
-GoIT JavaScript Homework 0.9.2.
+GoIT JavaScript Homework 10.
 
 ## Start
 
@@ -8,3 +8,5 @@ GoIT JavaScript Homework 0.9.2.
 npm install
 npm run dev
 ```
+
+After `npm install`, commit the generated `package-lock.json`.
